@@ -1,5 +1,13 @@
 # langchain
 
+## Getting Started
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/abhishek-bhattacharjee-job/langchain.git
+```
+
 ## 1. QNA from text files, where you want sitation, implemented using OpenAI
 ```bash
 https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_text_file_with_sitation_using_openAI
@@ -25,11 +33,5 @@ https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_pdf_f
 Contains a jupyter notebook code that reads multiple PDF file and create a knowledge base, after that you can ask question, and it would answer you from those PDF files using Hugging Face model
 
 
-## Getting Started
 
-1. Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/abhishek-bhattacharjee-job/langchain.git
-```
 
