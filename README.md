@@ -34,6 +34,17 @@ https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_pdf_f
 ```
 Contains a jupyter notebook code that reads multiple PDF file and create a knowledge base, after that you can ask question, and it would answer you from those PDF files using Hugging Face model
 
+### 5. QNA from Websites, where you want sitation, implemented using OpenAI
+```bash
+https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_website_with_sitation_using_local_openAI
+```
+Contains a jupyter notebook code that scrap multiple Websites and create a knowledge base, after that you can ask question, and it would answer you from those Websites using openAI
+
+### 6. QNA from Websites, where you want sitation, implemented using Hugging Face model
+```bash
+https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_website_with_sitation_using_local_Model
+```
+Contains a jupyter notebook code that scrap multiple Websites and create a knowledge base, after that you can ask question, and it would answer you from those Websites using Hugging Face model
 
 
 
