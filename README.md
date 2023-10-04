@@ -1,8 +1,29 @@
 # langchain
 
-## 1. qna_from_text_file_with_sitation_using_openAI
+## 1. QNA from text files, where you want sitation, implemented using OpenAI
+```bash
+https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_text_file_with_sitation_using_openAI
+```
+Contains a jupyter notebook code that reads multiple text file and create a knowledge base, after that you can ask question, and it would answer you from those text files using openAI
 
-Contains a jupyter notebook code that reads multiple text file and create a knowledge base, after that you can ask question, and it would answer you from those text files
+## 2. QNA from text files, where you want sitation, implemented using Hugging Face model
+```bash
+https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_text_file_with_sitation_using_local_Model
+```
+Contains a jupyter notebook code that reads multiple text file and create a knowledge base, after that you can ask question, and it would answer you from those text files using Hugging Face model
+
+## 3. QNA from PDF files, where you want sitation, implemented using OpenAI
+```bash
+https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_pdf_file_with_sitation_using_openAI
+```
+Contains a jupyter notebook code that reads multiple PDF file and create a knowledge base, after that you can ask question, and it would answer you from those PDF files using openAI
+
+## 4. QNA from PDF files, where you want sitation, implemented using Hugging Face model
+```bash
+https://github.com/abhishek-bhattacharjee-job/langchain/tree/main/qna_from_pdf_file_with_sitation_using_local_Model
+```
+Contains a jupyter notebook code that reads multiple PDF file and create a knowledge base, after that you can ask question, and it would answer you from those PDF files using Hugging Face model
+
 
 ## Getting Started
 
